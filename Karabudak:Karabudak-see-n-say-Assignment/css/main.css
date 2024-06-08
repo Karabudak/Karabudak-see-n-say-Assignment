@@ -1,0 +1,33 @@
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	background-color: #f0f0f0;
+}
+
+h1 {
+	margin-top: 20px;
+}
+
+div {
+	margin-top: 20px;
+}
+
+img#toyPhoto {
+	width: 300px; /* Adjust size as needed */
+	margin-top: 20px;
+}
+
+button {
+	margin: 5px;
+	padding: 10px 20px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: #ddd;
+}
